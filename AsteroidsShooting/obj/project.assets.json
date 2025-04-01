@@ -243,11 +243,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Maksim Razhev\\OneDrive\\Desktop\\AsteroidsShooting\\AsteroidsShooting\\AsteroidsShooting.csproj",
+      "projectUniqueName": "C:\\Users\\Maksim Razhev\\OneDrive\\Desktop\\AsteroidsShootingGame-main\\AsteroidsShooting\\AsteroidsShooting.csproj",
       "projectName": "AsteroidsShooting",
-      "projectPath": "C:\\Users\\Maksim Razhev\\OneDrive\\Desktop\\AsteroidsShooting\\AsteroidsShooting\\AsteroidsShooting.csproj",
+      "projectPath": "C:\\Users\\Maksim Razhev\\OneDrive\\Desktop\\AsteroidsShootingGame-main\\AsteroidsShooting\\AsteroidsShooting.csproj",
       "packagesPath": "C:\\Users\\Maksim Razhev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Maksim Razhev\\OneDrive\\Desktop\\AsteroidsShooting\\AsteroidsShooting\\obj\\",
+      "outputPath": "C:\\Users\\Maksim Razhev\\OneDrive\\Desktop\\AsteroidsShootingGame-main\\AsteroidsShooting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Maksim Razhev\\AppData\\Roaming\\NuGet\\NuGet.Config"
